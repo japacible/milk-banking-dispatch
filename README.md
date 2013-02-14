@@ -1,4 +1,20 @@
-cse490
-======
+Logistics Coordination Application for Milk Bank Donation Services
+=================================================================
 
-CSE 490D files // Winter 2013
+University of Washington
+
+CSE 490D Wi 2013
+
+Team
+----
+
+Jennifer Apacible
+
+Emily Chien
+
+Mihir Shah
+
+Jim Maddock
+
+Project Overview
+----------------
