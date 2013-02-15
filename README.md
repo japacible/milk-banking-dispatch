@@ -8,7 +8,7 @@ Team
 ----
 
 Jennifer Apacible  
-Emily Chien 
+Emily Chien  
 Mihir Shah  
 Jim Maddock
 
