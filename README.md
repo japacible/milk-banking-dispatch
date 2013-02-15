@@ -1,20 +1,15 @@
-Logistics Coordination Application for Milk Bank Donation Services
-=================================================================
+# Logistics Coordination Application for Milk Bank Donation Services
 
-University of Washington
+University of Washington  
+CSE 490D Wi 2013  
 
-CSE 490D Wi 2013
+## Team  
+Jennifer Apacible  
+Emily Chien  
+Mihir Shah  
+Jim Maddock  
 
-Team
-----
+## Project Overview  
+[Placeholder]
 
-Jennifer Apacible
 
-Emily Chien
-
-Mihir Shah
-
-Jim Maddock
-
-Project Overview
-----------------
