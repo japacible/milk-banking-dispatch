@@ -109,7 +109,7 @@ This comes from an email thread between Rohit, Penny, and Lizzie. Open questions
 * Set up a meeting time (Rohit + team) [DONE]  
 
 ## 2.15.2013: Email (Rohit)  
-Meeting: 2.20.2013: 1630 @ Atrium  
+Next Meeting: 2.20.2013: 1630 @ Atrium  
 
 ### Similar Idea In Place: Taxi Dispatch  
 * 2-way radios  
