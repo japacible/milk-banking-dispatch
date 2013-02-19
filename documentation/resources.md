@@ -25,3 +25,5 @@ Kenya
 AceRoute
 * [Free Work Order Scheduling, Dispatch, Route Optimization Solution](https://www.google.com/enterprise/marketplace/viewListing?productListingId=6688+7202516748784065387&pli=1)
 
+TaxiCentral
+* [Taxi dispatch software](http://www.taxicentral.com/)
