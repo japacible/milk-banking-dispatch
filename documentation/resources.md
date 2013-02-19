@@ -20,10 +20,14 @@ Reddit News (Android App)
 Kenya  
 * [Many Kenyans share mobile phones study](http://www.scidev.net/en/new-technologies/icts/news/many-kenyans-share-mobile-phones-study-finds.html)
 
-## Dispatching Apps
+## Dispatching Apps / Courier Services
 
 AceRoute
 * [Free Work Order Scheduling, Dispatch, Route Optimization Solution](https://www.google.com/enterprise/marketplace/viewListing?productListingId=6688+7202516748784065387&pli=1)
 
 TaxiCentral
 * [Taxi dispatch software](http://www.taxicentral.com/)
+
+TaskRabbit
+* [Outsourcing errands and small tasks](http://techcrunch.com/2012/06/21/taskrabbit-on-demand-deliver-now-service/)
+* [The app](https://www.taskrabbit.com/)
