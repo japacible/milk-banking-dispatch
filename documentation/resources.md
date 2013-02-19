@@ -20,4 +20,8 @@ Reddit News (Android App)
 Kenya  
 * [Many Kenyans share mobile phones study](http://www.scidev.net/en/new-technologies/icts/news/many-kenyans-share-mobile-phones-study-finds.html)
 
+## Dispatching Apps
+
+AceRoute
+* [Free Work Order Scheduling, Dispatch, Route Optimization Solution](https://www.google.com/enterprise/marketplace/viewListing?productListingId=6688+7202516748784065387&pli=1)
 
