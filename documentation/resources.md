@@ -31,3 +31,15 @@ TaxiCentral
 TaskRabbit
 * [Outsourcing errands and small tasks](http://techcrunch.com/2012/06/21/taskrabbit-on-demand-deliver-now-service/)
 * [The app](https://www.taskrabbit.com/)
+
+RapidSMS
+* [This looks like an interesting and applicable project, although it isn’t exactly what we want](http://www.rapidsms.org/overview/)
+
+Comtekk
+* [more similar, but I’m not a huge fan of how they’ve implimented the system](http://comtekk.us/sms-dispatch.htm)
+
+Amerilert
+* [dispatching and coordiation for emergency response](http://www.amerilert.com/firstresponder/index.htm)
+
+Digital-Dispatch
+* [this one looks interesting on how they dispatch taxi. It includes features such as dispatching, tracking and mapping](http://www.digital-dispatch.com/dispatch-solutions/taxibook)
