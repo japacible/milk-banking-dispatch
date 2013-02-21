@@ -1,8 +1,7 @@
 # Meeting Notes; Correspondence
 
 ## 2.6.2013: Meeting  
-
-Helping a milk bank in South Africa by creating a dispatching app
+Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate, Beth  
 
 ### App Functions:  
 * Help with pick up/delivery schedules  
@@ -23,8 +22,8 @@ Helping a milk bank in South Africa by creating a dispatching app
 ### //TODO:  
 * Email Rohit [DONE]  
 
-
 ## 2.13.2013:  Meeting  
+Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate, Beth
 
 ### Things we should be doing now:  
 Applications in the wild? (Search within App Stores)  
@@ -51,8 +50,8 @@ Logistics:
 
 ### //TODO:  
 * Email Rohit; cc Borriello (URGENT) [DONE]  
-* Email Nathan  
-* Research (on our own)  
+* Email Nathan [DONE]  
+* Research (on our own) [ONGOING]    
 
 ## 2.14.2013: Email (Rohit)
 
@@ -63,15 +62,6 @@ Logistics:
 ### Winter 2013 Goals:  
 * Brainstorm & evolve idea
 * Learn about processes from partners to guide implementation
-
-### New Open Questions:  
-* How do they recruit mothers?  
-* How do donor mothers tell our partners when they have extra BM for collection? 
-* How do our partners coordinate and pick up the BM? What interaction happens during BM collection (i.e. data collection about the donor mother etc )?  
-* What happens after the BM is collected (in terms of record keeping, milk processing etc)?  
-* Do all the phones have to be android phones?  
-* Would it be possible for the person collecting to send a message to the server to confirm milk has been collected?  
-* How do we allow donor mothers and collectors communicate?  
 
 ### Summary of Problem & Idea:  
 This comes from an email thread between Rohit, Penny, and Lizzie. Open questions have been documented under the Open Questions section rather than this section.
@@ -105,6 +95,15 @@ This comes from an email thread between Rohit, Penny, and Lizzie. Open questions
   * Moms could select a time slot when they message to say milk is ready  
 * Multiple volunteers for area  
 
+### New Open Questions:  
+* How do they recruit mothers?  
+* How do donor mothers tell our partners when they have extra BM for collection? 
+* How do our partners coordinate and pick up the BM? What interaction happens during BM collection (i.e. data collection about the donor mother etc )?  
+* What happens after the BM is collected (in terms of record keeping, milk processing etc)?  
+* Do all the phones have to be android phones?  
+* Would it be possible for the person collecting to send a message to the server to confirm milk has been collected?  
+* How do we allow donor mothers and collectors communicate?  
+
 ### //TODO:  
 * Set up a meeting time (Rohit + team) [DONE]  
 
@@ -117,3 +116,107 @@ Next Meeting: 2.20.2013: 1630 @ Atrium
 * Similar idea:  
   * Customer calls cab company  
   * Dispatcher finds a cab closest to pickup location  
+
+## 2.20.2013: Meeting  
+Present: Jennifer, Emily, Jim, Mihir, Rohit, Nathan
+
+### Project Goals:  
+* Simplify work of people who are collecting milk
+* Coordination problem between couriers and mothers
+  * Currently, no system exists
+* Find the closest courier
+* Create a scale-able solution
+
+### Current System (S. Africa):  
+* Started with developing cell phone base method 
+  * Currently introduced in a few hospitals
+* Each pasteurization procedure is uploaded
+* Current system in infant stages
+  * Staff is small
+  * Phone/email communication works
+    * Current staff may say they don't need help with scaling
+* Goal is to scale this in the future
+* Volunteers collect donor milk
+* 5 operational facilities (2 starting up)
+* Currently varying amount of donor milk coming in based on area
+  * Thus, want to expand areas where couriers cover
+* Milk collectors get call, then figure out how/when to collect milk
+
+#### Technology Involved:  
+* Mobile: 
+  * What capabilities do these phones have?
+  * Donor mothers: no assumptions on types of phones
+    * Can assume communication via calls or SMS
+  * Couriers: assume they have android phone
+    * Can assume SIM card with data
+* Location
+* Server
+* IVR based backend
+* Voxeo (IVR, SMS)
+  * Free for developers
+* Operation costs?
+* Database with all donor information needed (DNE)
+  * Currently, lots of data replication
+
+### Flow Proposition:  
+* Donor mother calls coordinator
+* Coordinator figures out who the closest person to pick up is
+  * Or automated
+
+### Organizations:
+* Human Milk Banking Assoc of S. Africa
+* Human Milk Bankers
+
+### New Open Questions:  
+* Currently, how do people in South Africa figure out how to allocate communities to couriers?
+* How is milk banking implemented?
+* What budget do we have for operation costs?
+
+### //TODO:
+* Get workflow information/documentation from Rohit
+* Talk to the people at PATH
+  * How is milk banking implemented?
+  * How do you recruit donor mothers?
+  * Figure out what questions is best to ask people in South Africa
+* Talk to people who actually do milk banking
+  * Penny, Lizzy (one org)
+
+## 2.20.2013 Meeting  
+Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate
+
+### Technology:
+* Would it make sense to have an SMS front end?
+  * Pick up instead of calls
+* Have a server side to track everything
+* Map based (See where couriers are)
+* Be flexible in using SMS or calls for mothers
+  * Different places, pricing structure might be different
+
+### Current Dispatching Services:
+* ie. Emergency response, Taxi
+* What features do they have?
+* What interface do the users see?
+* What interface does the couriers see?
+
+### Use Cases: 
+* Dispatcher: website
+* Courier: cheap Android phone
+* Mothers: ???? any type of phone goes
+
+### End of Quarter Work: 
+* Final presentation + poster session in Atrium
+  * Mock ups, charts
+  
+### Open Questions:  
+* Who are our stakeholders? (dispatcher, courier, mothers)
+* How does the communication flow work?
+* Are we using Voxeo?
+* Would it make sense to have an SMS front end?
+* What interfaces do users and couriers currently see in existing dispatching services?
+
+### //TODO:
+* Decide work flow  
+* Communication with PATH [URGENT]  
+* Communication with S. Africa  
+  * Send diagrams/charts to them for feedback  
+* Send an update every time we do a major change on github [ONGOING]  
