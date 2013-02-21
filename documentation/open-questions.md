@@ -6,7 +6,8 @@
 * When performing a pick up and/or drop off, what information do we need?
 * What type of functionality do we need?
 * How do our partners recruit mothers?  
-* How do donor mothers tell our partners when they have extra BM for collection? 
+* How do donor mothers tell our partners when they have extra BM for collection?
+* Does the BM need to be picked up the same day our partners are notified by donor mothers? If not, how do you coordinate when's a good time for pickup?
 * How do our partners coordinate and pick up the BM? What interaction happens during BM collection (data collection about the donor mother, etc)?  
 * What happens after the BM is collected (record keeping, milk processing, etc)?  
 * Do all the phones have to be android phones?  
