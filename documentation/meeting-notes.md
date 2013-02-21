@@ -142,7 +142,7 @@ Present: Jennifer, Emily, Jim, Mihir, Rohit, Nathan
   * Thus, want to expand areas where couriers cover
 * Milk collectors get call, then figure out how/when to collect milk
 
-#### Technology Involved:  
+### Technology Involved:  
 * Mobile: 
   * What capabilities do these phones have?
   * Donor mothers: no assumptions on types of phones
