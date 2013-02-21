@@ -6,14 +6,14 @@ Nokia (Manufacturer)
 * [Nokia not blocking multiple users on Android phones](http://news.cnet.com/8301-1035_3-57543535-94/nokia-not-blocking-multiple-users-on-android-phones/)  
 * [Why Android Jelly Bean 4.2s multiple user account switching is tablet only](http://techcrunch.com/2012/10/29/why-android-jelly-bean-4-2s-multiple-user-account-switching-is-tablet-only-hint-nokia-patented-it-for-phones/)
 
-SwitchMe (Android App)  
+Reddit News (Android)
+* [Reddit News ... adds ... multiple account support](http://www.androidpolice.com/2013/01/25/reddit-news-updated-to-version-6-adds-sliding-user-interface-and-multiple-account-support/)
+
+SwitchMe (Android)  
 * [Switch Me brings multiple user accounts to Android](http://www.redmondpie.com/switchme-brings-multiple-user-accounts-to-android-download-now/)
 
 Twitter for Android (Android App)
 * [Twitter for Android now with push](http://blog.twitter.com/2011/07/twitter-for-android-now-with-push.html)
-
-Reddit News (Android App)
-* [Reddit News ... adds ... multiple account support](http://www.androidpolice.com/2013/01/25/reddit-news-updated-to-version-6-adds-sliding-user-interface-and-multiple-account-support/)
 
 ## Sharing Phones
 
@@ -25,21 +25,28 @@ Kenya
 AceRoute
 * [Free Work Order Scheduling, Dispatch, Route Optimization Solution](https://www.google.com/enterprise/marketplace/viewListing?productListingId=6688+7202516748784065387&pli=1)
 
-TaxiCentral
-* [Taxi dispatch software](http://www.taxicentral.com/)
-
-TaskRabbit
-* [Outsourcing errands and small tasks](http://techcrunch.com/2012/06/21/taskrabbit-on-demand-deliver-now-service/)
-* [The app](https://www.taskrabbit.com/)
-
-RapidSMS
-* [This looks like an interesting and applicable project, although it isn’t exactly what we want](http://www.rapidsms.org/overview/)
+Amerilert First Responder (SMS)
+* [Website](http://www.amerilert.com/firstresponder/index.htm)
+  * Dispatching and coordiation for emergency response
 
 Comtekk
-* [more similar, but I’m not a huge fan of how they’ve implimented the system](http://comtekk.us/sms-dispatch.htm)
-
-Amerilert
-* [dispatching and coordiation for emergency response](http://www.amerilert.com/firstresponder/index.htm)
+* [Website](http://comtekk.us/sms-dispatch.htm)
+  * +1 not fan of implementation
 
 Digital-Dispatch
-* [this one looks interesting on how they dispatch taxi. It includes features such as dispatching, tracking and mapping](http://www.digital-dispatch.com/dispatch-solutions/taxibook)
+* [Website](http://www.digital-dispatch.com/dispatch-solutions/taxibook)
+  * Features include dispatching, tracking, mapping
+  
+Dispatch! (iOS & Android)
+* [Website](http://www.dispatchapp.eu/)
+
+RapidSMS
+* [Website](http://www.rapidsms.org/overview/)
+
+TaskRabbit (Web & iOS)
+* [Website](https://www.taskrabbit.com/)
+* [TaskRabbit Launches On-Demand Courier Service ‘Deliver Now’ In San Francisco](http://techcrunch.com/2012/06/21/taskrabbit-on-demand-deliver-now-service/)
+  * Outsourcing errands and small tasks
+
+TaxiCentral
+* [Website](http://www.taxicentral.com/)
