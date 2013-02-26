@@ -10,7 +10,7 @@ Feature Pages
 * [Location](http://developer.android.com/guide/topics/location/index.html)
 
 General Reference  
-* [Packages](http://developer.android.com/reference/packages.html0
+* [Packages](http://developer.android.com/reference/packages.html)
 
 ## Android - Multiple Accounts
 
