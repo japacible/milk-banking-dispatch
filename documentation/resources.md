@@ -1,5 +1,17 @@
 # Research / Links
 
+## Android - Development/Design
+
+Guidelines  
+* [Design Pages](http://developer.android.com/design/index.html)  
+
+Feature Pages  
+* [Text and Input](http://developer.android.com/guide/topics/text/index.html)  
+* [Location](http://developer.android.com/guide/topics/location/index.html)
+
+General Reference  
+* [Packages](http://developer.android.com/reference/packages.html0
+
 ## Android - Multiple Accounts
 
 Nokia (Manufacturer)  
@@ -14,11 +26,6 @@ SwitchMe (Android)
 
 Twitter for Android (Android App)
 * [Twitter for Android now with push](http://blog.twitter.com/2011/07/twitter-for-android-now-with-push.html)
-
-## Sharing Phones
-
-Kenya  
-* [Many Kenyans share mobile phones study](http://www.scidev.net/en/new-technologies/icts/news/many-kenyans-share-mobile-phones-study-finds.html)
 
 ## Dispatching Apps / Courier Services
 
@@ -50,3 +57,8 @@ TaskRabbit (Web & iOS)
 
 TaxiCentral
 * [Website](http://www.taxicentral.com/)
+
+## Sharing Phones
+
+Kenya  
+* [Many Kenyans share mobile phones study](http://www.scidev.net/en/new-technologies/icts/news/many-kenyans-share-mobile-phones-study-finds.html)
