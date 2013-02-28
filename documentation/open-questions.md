@@ -1,6 +1,6 @@
 # Open Questions
 
-* What other similar applications are currently in use?
+* \bWhat other similar applications are currently in use?
 * What are other lines of work where this application could be used?
 * What articles has been written about this topic/services?
 * When performing a pick up and/or drop off, what information do we need?
