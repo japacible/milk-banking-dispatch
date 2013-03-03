@@ -7,12 +7,14 @@
 - Our hope is that this will make the couriers job easier during pickup
 
 ###Project description
-- We have been working with PATH and people in South Africa
 
 ###Related work
 - Dispatch! app
 
 ###Findings so far
+- We have been working with PATH and people in South Africa
+- There is also no organization for how donor mothers are recruited
+- We need to know what data is collected at time of pick up
 
 ###Basic scenario
 - Donor mother calls the MB
