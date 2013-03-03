@@ -1,16 +1,30 @@
-##Problem space
+###Cover Picture
+- (Could use diagram of the milk banking process from Rohit's paper)
 
-##Project description
+###Problem space
+- Couriers at the milk bank have to drop whatever their doing for pickup once notified of a donor having extra breast milk (BM)
+- Currently there is no organization for who gets dispatched for the pickup
+- Our hope is that this will make the couriers job easier during pickup
 
-##Related work
--Dispatch! app
+###Project description
+- We have been working with PATH and people in South Africa
 
-##Findings so far
+###Related work
+- Dispatch! app
 
-##Basic scenario
+###Findings so far
 
-##Architecture
+###Basic scenario
+- Donor mother calls the MB
+- She uses an IVR system to tell the MB where she is
+- Our app gets this information and determines which courier is best suited at the time
+- Courier goes to donor's location
+- Courier lets the mother know when (s)he is close
+- Courier collects BM and any other information needed
+- While the courier is out, if another pickup request is made, the courier will be notified
 
-##Design and evaluation
+###Architecture
 
-##Plan for next quarter
+###Design and evaluation
+
+###Plan for next quarter
