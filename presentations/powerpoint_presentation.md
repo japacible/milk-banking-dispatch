@@ -4,19 +4,25 @@
   * Stock photo
 
 ### Problem Space
-* Couriers at the milk bank have to drop whatever their doing for pickup once notified of a donor having extra breast milk (BM)
+* Couriers at the milk bank (MB) have to drop whatever their doing for pickup once notified of a donor having extra breast milk (BM)
 * Currently there is no organization for who gets dispatched for the pickup
 * Our hope is that this will make the couriers job easier during pickup
 
 ### Project Description
-*
+* Our project organizes the dispatching of couriers who collect the BM
+* Donor mothers and courriers will use it for deliveries
+* Hospital will use it to gather information
+* Design challenge...
 
 ### Related work
-* Dispatch! app
+* Idea comes from Decentralized Human Milk Banking with ODK Sensors by Rohit Chaudri and Gaetano Borriello among others
+* Dispatch! app for taxi drivers
+* Help from Nathan...
+* Interesting because...
 
 ### Findings so far
-* We have been working with PATH and people in South Africa
-* There is also no organization for how donor mothers are recruited
+* We have been working with Rohit, PATH and members of the Human Milk Banking Association of South Africa in Durban
+* There is no organization for how donor mothers are recruited
 * We need to know what data is collected at time of pick up
 
 ### Basic scenario
