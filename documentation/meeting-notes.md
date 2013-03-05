@@ -227,6 +227,9 @@ Present: Jennifer, Emily, Jim, Mihir
 ###Questions and Answers - PATH and S Africa
 * https://github.com/japacible/cse490/blob/master/documentation/path_questions.md
 
+###Notes from Noah
+* https://github.com/japacible/cse490/blob/master/documentation/PATH%20talk%20with%20Noah
+
 ### Open Questions:
 * Lizzie's response from S Africa
 * Can we get in contact with someone from Capetown instead of Durban?
