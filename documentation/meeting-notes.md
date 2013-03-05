@@ -173,13 +173,12 @@ Present: Jennifer, Emily, Jim, Mihir, Rohit, Nathan
 * What budget do we have for operation costs?
 
 ### //TODO:
-* Get workflow information/documentation from Rohit
-* Talk to the people at PATH
+* Get workflow information/documentation from Rohit [DONE]
+* Talk to the people at PATH [DONE]
   * How is milk banking implemented?
   * How do you recruit donor mothers?
   * Figure out what questions is best to ask people in South Africa
-* Talk to people who actually do milk banking
-  * Penny, Lizzy (one org)
+* Talk to people who actually do milk banking [DONE]
 
 ## 2.20.2013 Meeting  
 Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate
@@ -216,26 +215,76 @@ Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate
 
 ### //TODO:
 * Decide work flow  
-* Communication with PATH [URGENT][DONE]  
-* Communication with S. Africa [ONGING] 
+* Communication with PATH [URGENT] [DONE]  
+* Communication with S. Africa [DONE]  
   * Send diagrams/charts to them for feedback (QUESTIONS SENT, WAITING FOR RESPONSE) 
 * Send an update every time we do a major change on github [ONGOING] 
 
-## 2.27.2013 & 3.4.2012:  Meetings
+## 3.4.2013 Meeting  
+Present: Mihir and Noah (PATH)
+
+### Noah's Role
+* Involved in process after milk arrived to milk bank
+  * What can he tell us about this? [apacible, 3.5.2013]
+
+### What Noah Knows
+* Does not know how coordination between mother, courier, and dispatcher takes place
+* There was clear infrastructure in place in milk bank
+  * What infrastructure is this? [apacible, 3.5.2013]
+
+### //TODO
+* Contact Lizzie and Rohit for details on current workflow [ONGOING]
+
+## 2.28.2013 Meeting
+Present: Jim, Lizzie
+
+### Questions
+
+#### General
+* Describe the current workflow
+* Describe the problem as you see it
+* Describe possible solutions / what has been brainstormed so far
+
+#### Stakeholders - Mothers, Couriers, Dispatchers:
+
+* what is the his/her role in the system – what does he/she do now?
+* what would simplify his/her task?
+* what role would he/she play in the new system?
+* what are his/her constraints (technology, time, etc)?
+
+#### Logistics
+* How are the mothers and the curriers recruited?
+* How well do curriers know the neighborhood?
+* How much area do they cover?
+* Any other major points that we’ve missed…
+ 
+### Answers
+
+#### Two Main Points
+* The system (or lack of system) is very ad-hoc at the moment.  Individual roles (such a courier and dispatcher) don’t exist.  It’s a collection of volunteers working with the university.  Kiersten seemed to think that the lack of organization would make implementing this project in the current environment impossible.
+* This is something we might want to target at Cape Town rather than Durban (which is where PATH is operating).  Cape Town has much stronger infrastructure in place, which could possibly (though we don’t know) support this system.
+
+#### Further Communication
+* Lizzie would know the answers to workflow problems (the first section on the list), although would probably have difficulty with the later questions (because a system just doesn’t exist).  Worth talking to her, but mostly about the general nature of the system.
+* We need to speak with Rohit further about the workflow that he sees at the moment, and where specifically he’s talking about setting this system up.
+* Kiersten suggested it’s worth having Rohit contact people before we talk to them so he can describe more specifically what we’re proposing.
+
+#### Other
+* Donating mothers are usually healthy mothers who are staying in the hospital
+* There are some wealthy donors who donate from home, though they are not common
+* Simplifying the process for the donor would be useful
+* Couriers are volunteers who get a phone and must interrupt what they’re doing
+* In relation to the above, there are a number of different workflows among the different organizations
+* South Africa probably isn’t ready for this system at this point in time.  Lack of infrastructure as well as a concrete “system/workflow” prevents implementation.  However, it’s something worth considering for a few years down the road and could be quite helpful when the milk banking operation is scaled.
+
+## 3.4.2012 Meeting
 Present: Jennifer, Emily, Jim, Mihir
 
-###Questions and Answers - PATH and S Africa
-* https://github.com/japacible/cse490/blob/master/documentation/path_questions.md
-
-###Notes from Noah
-* https://github.com/japacible/cse490/blob/master/documentation/PATH%20talk%20with%20Noah
-
 ### Open Questions:
-* Lizzie's response from S Africa
 * Can we get in contact with someone from Capetown instead of Durban?
 * Does it make sense to go forward with the project?
 
 ### //TODO:
-* Communicate with Rohit, S Africa, and project leaders
-* Diagrams
+* Communicate with Rohit, S Africa, and project leaders [ONGOING]
+* Diagrams [ONGOING]
 * Complete powerpoint
