@@ -40,3 +40,6 @@
 4.	Couriers are volunteers who get a phone and must interrupt what they’re doing
 5.	In relation to the above, there are a number of different workflows among the different organizations
 6.	South Africa probably isn’t ready for this system at this point in time.  Lack of infrastructure as well as a concrete “system/workflow” prevents implementation.  However, it’s something worth considering for a few years down the road and could be quite helpful when the milk banking operation is scaled.
+
+##Fom Mihir
+Noah is primarily involved in the process that involves after the milk has already arrived to the milk bank. He has no insight on how the coordination between the mother, courier and dispatcher takes place. According to Noah there was clear infrastructure currently in place in the milk bank. He asked to contact Lizzie and Rohit to get more details about the current workflow and problem with it. 
