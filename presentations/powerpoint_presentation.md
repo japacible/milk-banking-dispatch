@@ -23,8 +23,9 @@
   * PATH
   * Human Milk Banking Association of South Africa in Durban
 * Currently there is no infrastructure
+* New job is to build for a general scenario
 
-### Basic scenario (must be diagrams)
+### Basic scenario (should be diagrams)
 * Donor mother calls the MB
 * She uses an IVR system to tell the MB where she is
 * Our app gets this information and determines which courier is best suited at the time
