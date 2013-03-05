@@ -12,20 +12,19 @@
 * Our project organizes the dispatching of couriers who collect the BM
 * Donor mothers and courriers will use it for deliveries
 * Hospital will use it to gather information
-* Design challenge...
 
 ### Related work
 * Idea comes from Decentralized Human Milk Banking with ODK Sensors by Rohit Chaudri and Gaetano Borriello among others
 * Dispatch! app for taxi drivers
-* Help from Nathan...
-* Interesting because...
 
 ### Findings so far
-* We have been working with Rohit, PATH and members of the Human Milk Banking Association of South Africa in Durban
-* There is no organization for how donor mothers are recruited
-* We need to know what data is collected at time of pick up
+* We have been working with
+  * Rohit
+  * PATH
+  * Human Milk Banking Association of South Africa in Durban
+* Currently there is no infrastructure
 
-### Basic scenario
+### Basic scenario (must be diagrams)
 * Donor mother calls the MB
 * She uses an IVR system to tell the MB where she is
 * Our app gets this information and determines which courier is best suited at the time
