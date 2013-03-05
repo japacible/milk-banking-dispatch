@@ -287,4 +287,4 @@ Present: Jennifer, Emily, Jim, Mihir
 ### //TODO:
 * Communicate with Rohit, S Africa, and project leaders [ONGOING]
 * Diagrams [ONGOING]
-* Complete powerpoint
+* Complete powerpoint [ONGOING]
