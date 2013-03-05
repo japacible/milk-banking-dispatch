@@ -216,7 +216,23 @@ Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate
 
 ### //TODO:
 * Decide work flow  
-* Communication with PATH [URGENT]  
-* Communication with S. Africa  
-  * Send diagrams/charts to them for feedback  
-* Send an update every time we do a major change on github [ONGOING]  
+* Communication with PATH [URGENT][DONE]  
+* Communication with S. Africa [ONGING] 
+  * Send diagrams/charts to them for feedback (QUESTIONS SENT, WAITING FOR RESPONSE) 
+* Send an update every time we do a major change on github [ONGOING] 
+
+## 2.27.2013 & 3.4.2012:  Meetings
+Present: Jennifer, Emily, Jim, Mihir
+
+###Questions and Answers - PATH and S Africa
+* https://github.com/japacible/cse490/blob/master/documentation/path_questions.md
+
+### Open Questions:
+* Lizzie's response from S Africa
+* Can we get in contact with someone from Capetown instead of Durban?
+* Does it make sense to go forward with the project?
+
+### //TODO:
+* Communicate with Rohit, S Africa, and project leaders
+* Diagrams
+* Complete powerpoint
