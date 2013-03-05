@@ -220,21 +220,6 @@ Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate
   * Send diagrams/charts to them for feedback (QUESTIONS SENT, WAITING FOR RESPONSE) 
 * Send an update every time we do a major change on github [ONGOING] 
 
-## 3.4.2013 Meeting  
-Present: Mihir and Noah (PATH)
-
-### Noah's Role
-* Involved in process after milk arrived to milk bank
-  * What can he tell us about this? [apacible, 3.5.2013]
-
-### What Noah Knows
-* Does not know how coordination between mother, courier, and dispatcher takes place
-* There was clear infrastructure in place in milk bank
-  * What infrastructure is this? [apacible, 3.5.2013]
-
-### //TODO
-* Contact Lizzie and Rohit for details on current workflow [ONGOING]
-
 ## 2.28.2013 Meeting
 Present: Jim, Lizzie
 
@@ -276,6 +261,21 @@ Present: Jim, Lizzie
 * Couriers are volunteers who get a phone and must interrupt what they’re doing
 * In relation to the above, there are a number of different workflows among the different organizations
 * South Africa probably isn’t ready for this system at this point in time.  Lack of infrastructure as well as a concrete “system/workflow” prevents implementation.  However, it’s something worth considering for a few years down the road and could be quite helpful when the milk banking operation is scaled.
+
+## 3.4.2013 Meeting  
+Present: Mihir and Noah (PATH)
+
+### Noah's Role
+* Involved in process after milk arrived to milk bank
+  * What can he tell us about this? [apacible, 3.5.2013]
+
+### What Noah Knows
+* Does not know how coordination between mother, courier, and dispatcher takes place
+* There was clear infrastructure in place in milk bank
+  * What infrastructure is this? [apacible, 3.5.2013]
+
+### //TODO
+* Contact Lizzie and Rohit for details on current workflow [ONGOING]
 
 ## 3.4.2012 Meeting
 Present: Jennifer, Emily, Jim, Mihir
