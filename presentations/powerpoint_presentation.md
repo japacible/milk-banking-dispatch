@@ -35,14 +35,10 @@
 * While the courier is out, if another pickup request is made, the courier will be notified
 
 ### Architecture
-* Front End
-  *
-* Back End 
-  * 
+* +architecture diagram
 
 ### Design and Evaluation
-*
+* 
 
 ### Plan for next quarter
-*
-
+* TBD - may need to broaden to pure courier services application
