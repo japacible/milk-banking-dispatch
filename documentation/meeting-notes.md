@@ -267,12 +267,12 @@ Present: Mihir and Noah (PATH)
 
 ### Noah's Role
 * Involved in process after milk arrived to milk bank
-  * What can he tell us about this? [apacible, 3.5.2013]
+  * He can help us understand what happens to the milk after the milk has already arrived. Also the procedure the milk goes through before/after it has pasteurized. 
 
 ### What Noah Knows
 * Does not know how coordination between mother, courier, and dispatcher takes place
 * There was clear infrastructure in place in milk bank
-  * What infrastructure is this? [apacible, 3.5.2013]
+  * There is no courrier or dispatcher currently that exists in bringing the milk to the milk banks. 
 
 ### //TODO
 * Contact Lizzie and Rohit for details on current workflow [ONGOING]
