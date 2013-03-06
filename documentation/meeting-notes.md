@@ -221,7 +221,7 @@ Present: Jennifer, Emily, Jim, Mihir, Ruth, Gaetano, Kate
 * Send an update every time we do a major change on github [ONGOING] 
 
 ## 2.28.2013 Meeting
-Present: Jim, Lizzie
+Present: Jim, Lizzie (S. Africa)
 
 ### Questions
 
