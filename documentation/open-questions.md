@@ -32,11 +32,13 @@ We assume that the phones used by couriers (our partners) are all android device
 It would make sense to use Voxeo at this point. There are currently a number of sample code online for Voxeo.
 
 * What budget do we have for operation costs?  
+We currently cannot get any information about this.
 
 * Would it make sense to have an SMS front end?  
 For uniformity when donor mothers contact our partners, yes.
 
 * What interfaces do users and couriers currently see in existing dispatching services?  
+In-vehicle GPS, apps with maps and notifications
 
 ## Work Flow
 * How do our partners recruit mothers?  
@@ -48,10 +50,12 @@ The donor mothers send a message to our partners.
 * Does the BM need to be picked up the same day our partners are notified by donor mothers? If not, how do you coordinate when's a good time for pickup?  
 
 * How do our partners coordinate and pick up the BM? What interaction happens during BM collection (data collection about the donor mother, etc)?  
-
+`
 * What happens after the BM is collected (record keeping, milk processing, etc)?  
+The milk is kept with the courier until the courier gets back to one of the bank centers, which is commonly the local hospitals. 
 
 * How does the communication flow work?  
+In an individual community, there are specific couriers who work with the donor mothers. When the mother has extra BM, they message the couriers that they have BM ready for pick up. The courier and mother then decide when the best time for them to meet is.
 
 * How is milk banking currently implemented?  
 
