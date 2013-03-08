@@ -20,7 +20,7 @@
 ### Findings so far
 * We have been working with
   * Rohit
-  * PATH
+  * PATH (SLU, Washington)
   * Human Milk Banking Association of South Africa in Durban
 * Currently there is no infrastructure
 * New job is to build for a general scenario
@@ -36,9 +36,25 @@
 
 ### Architecture
 * +architecture diagram
+* Details (split into two pages?)
 
 ### Design and Evaluation
-* 
+* Given: cell sms/calls, internet access infrastructure, proper funding
+* How to evaluate what components we're going to use
+* Things to take into account
+  * Privacy of donor mothers
+  * People who will be accessing any part of this
+      * Courier (android device)
+      * Mother (generic phone)
+      * Overseer (website)
+* Information storage should be somewhere central and not any one of the clients should
+  have to take a burden on hosting it, therefore using a database to store information
+* Information:
+  * Donor mother information
+  * Courier information
+  * Milk pick up / drop off points
+  * All transactions (past, present, pending) 
 
 ### Plan for next quarter
 * TBD - may need to broaden to pure courier services application
+* Emily/Jim needs to chat to see what's happening here
