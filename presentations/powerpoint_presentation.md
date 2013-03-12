@@ -62,3 +62,10 @@
 ### Plan for next quarter
 * TBD - may need to broaden to pure courier services application
 * Emily/Jim needs to chat to see what's happening here
+
+
+### Notes from Lizzie's email to possibly be added, if not to the ppt then in the presentation
+* Having the DMs notify the MB that they need new bottles/a pickup within a decent timeframe cannot be changed by us. That is cultural/based on availability of phone/email
+* There are multiple destinations for the donated and unpasteurized milk to go to, our app/site needs to address this for the courier
+* Website needs to explicitly assign couriers to a pickup trip, this can happen so that only the one courier gets the txt notification or it's explicit on the website
+* 
