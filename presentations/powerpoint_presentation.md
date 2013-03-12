@@ -4,8 +4,9 @@
   * Stock photo
 
 ### Problem Space
-* Couriers at the milk bank (MB) have to drop whatever their doing for pickup once notified of a donor having extra breast milk (BM)
-* Currently there is no organization for who gets dispatched for the pickup
+* DMs request pickups at odd times and often with minimal notice
+* Sometimes more than one courier at a time goes for one pickup
+* There are multiple MB locations and sometimes couriers don't know where to bring the DM
 * Our hope is that this will make the couriers job easier during pickup
 * We also hope it will standardize the way donors contact the MB
 
@@ -41,8 +42,7 @@
 * While the courier is out, if another pickup request is made, the courier will be notified
 
 ### Architecture
-* +architecture diagram
-* Details (split into two pages?)
+* Diagram
 
 ### Design and Evaluation
 * Things to take into account
