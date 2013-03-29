@@ -2,11 +2,13 @@
 
 ## Application
 * What other similar applications are currently in use?  
+Dispatch!, RapidSMS, TaskRabbit, Amerilert First Responder, TaxiCentral.  
 
 * What are other lines of work where this application could be used?  
 Any courier service type work can utilize this application. For example, calling for a taxi, on-demand delivery systems, etc.
 
 * What articles has been written about this topic/services?  
+See resources.md.  
 
 ## Process
 * When performing a pick up and/or drop off, what information do we need?  
@@ -48,16 +50,16 @@ Many are volunteer mothers who had just given birth at nearby hospitals.
 The donor mothers send a message to our partners.
 
 * Does the BM need to be picked up the same day our partners are notified by donor mothers? If not, how do you coordinate when's a good time for pickup?  
+Yes.  
 
 * How do our partners coordinate and pick up the BM? What interaction happens during BM collection (data collection about the donor mother, etc)?  
-`
+The donor mother either contacts the courier directly or contacts the dispatcher, who then contacts couriers. The courier then picks up the BM from the DM.
+
 * What happens after the BM is collected (record keeping, milk processing, etc)?  
 The milk is kept with the courier until the courier gets back to one of the bank centers, which is commonly the local hospitals. 
 
 * How does the communication flow work?  
 In an individual community, there are specific couriers who work with the donor mothers. When the mother has extra BM, they message the couriers that they have BM ready for pick up. The courier and mother then decide when the best time for them to meet is.
-
-* How is milk banking currently implemented?  
 
 * Currently, how do people in South Africa figure out how to allocate communities to couriers?  
 Whomever (courier) is closest to the specific area/community will pick up the BM.
